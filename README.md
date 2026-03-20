@@ -1,2 +1,3 @@
 # Terrain-mobile-crane
-Terrain-adaptive motion planning for autonomous mobile cranes with load sway suppression using GPU-accelerated parallel computation.
+Terrain-adaptive motion planning for autonomous mobile cranes with load sway suppression using GPU-accelerated parallel computation. 
+Coming soon.....
